@@ -1,0 +1,8 @@
+PORT=8000
+MONGODB_URI=mongodb+srv://<username>:<pswd>@cluster0.sagqq0z.mongodb.net
+CORS_ORIGIN=*
+ACCESS_TOKEN_SECRET=oiryginch0948pndkjsfinfegnGUYGUHgxcnnn898nhsqwsfcdtcbvnv
+ACCESS_TOKEN_EXPIREY=1d
+REFRESH_TOKEN_SECRET=HNCUFFKGHYEIUDHIGHCdtdyvih78orcx@iuictuygfhjkhjmcddcnk9898j
+REFRESH_TOKEN_EXPIREY=10d
+
